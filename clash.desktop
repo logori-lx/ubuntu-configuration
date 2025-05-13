@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+#App name
+Name=Clash
+#App Icon file path
+Icon=/home/xulou/Pictures/clash.jpeg
+#whether boot with a terminal opened
+Terminal=false
+#AppImage desktop file path
+Exec=/home/xulou/Desktop/clash-verge_1.6.2_amd64.AppImage
