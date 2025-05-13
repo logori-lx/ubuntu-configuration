@@ -4,13 +4,13 @@
 
 ### clash安装
 
-首先需要先下载clash ，可以通过这个[链接](https://github.com/logori-lx/ubuntu-configuration/blob/main/clash-verge_1.6.2_amd64.AppImage)下载
+首先需要先下载clash ，直接下载代码即可，rar文件就是clash压缩包
 
 下载完成后，修改appimage的可执行权限
 
-![image.png](attachment:ea48769a-9bb9-4781-8e4d-9cfd3c46768f:image.png)
+![mage1.png](https://p.sda1.dev/24/66a0dd4a442e2c804a33514abe399aec/image1.png)
 
-![image.png](attachment:d9f364e4-3f18-42b8-8dc3-43a42b5df319:image.png)
+![image2.png](https://p.sda1.dev/24/c009f684de050fc7e3863467ae9e8dec/image2.png)
 
 修改完成后，点击Appimage文件即可运行
 
@@ -44,13 +44,13 @@ sudo chmod +x /usr/share/applications/clash.desktop
 
 即可在桌面找到clash
 
-![image.png](attachment:7981968e-e941-4bd2-a55c-d5935a60021b:image.png)
+![image3.png](https://p.sda1.dev/24/61052cc9d38a5a627feaae5f14b73369/image3.png)
 
 右键 Add to Favourites即可添加到侧边栏
 
-![image.png](attachment:688c256e-3b56-4692-a4b5-90abae30f30f:image.png)
+![image4.png](https://p.sda1.dev/24/2bcf2ab1dc46bc5137a8400dfd15fea3/image4.png)
 
-![image.png](attachment:cda91ac0-48e8-4dd8-bd83-182b920e35f0:image.png)
+![image5.png](https://p.sda1.dev/24/1d0d420bdea767c61832ca82c5b5f1d2/image5.png)
 
 ### 配置开机自启动
 
